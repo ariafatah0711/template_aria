@@ -38,9 +38,18 @@ introduction this repo
 1. Open a terminal or command prompt on your computer.
 2. Navigate to the directory where you want to save this project.
 3. Use the following command to download the project from the GitHub repository:
-```sh
-git clone url_repo
-```
+   ```sh
+   git clone https://github.com/ariafatah0711/dicoding_3.git
+   ```
+4. Ensure NodeJS is installed, then run the following command to install npm:
+   ```sh
+   npm install
+   ```
+5. Execute the following command to build and run the project:
+   ```sh
+   npm run start-dev
+   ```
+6. lauch http://localhost:8080/ in web browser
 
 <p id="related"></p>
 
